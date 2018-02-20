@@ -1,0 +1,16 @@
+C:\Users\WanHuangbo\Desktop\EquReportToWord\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WanHuangbo\Desktop\EquReportToWord\obj\Debug\EquReportToWord.Form1.resources
+C:\Users\WanHuangbo\Desktop\EquReportToWord\obj\Debug\EquReportToWord.Properties.Resources.resources
+C:\Users\WanHuangbo\Desktop\EquReportToWord\obj\Debug\EquReportToWord.csproj.GenerateResource.Cache
+C:\Users\WanHuangbo\Desktop\EquReportToWord\bin\Debug\EquReportToWord.exe
+C:\Users\WanHuangbo\Desktop\EquReportToWord\bin\Debug\EquReportToWord.pdb
+C:\Users\WanHuangbo\Desktop\EquReportToWord\obj\Debug\EquReportToWord.exe
+C:\Users\WanHuangbo\Desktop\EquReportToWord\obj\Debug\EquReportToWord.pdb
+D:\C#\安元\EquReportToWord(150308)\obj\Debug\EquReportToWord.exe
+D:\C#\安元\EquReportToWord(150308)\obj\Debug\EquReportToWord.pdb
+D:\C#\安元\EquReportToWord(150308)\bin\Debug\EquReportToWord.exe
+D:\C#\安元\EquReportToWord(150308)\bin\Debug\EquReportToWord.pdb
+D:\C#\安元\EquReportToWord(150308)\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\安元\EquReportToWord(150308)\obj\Debug\EquReportToWord.Properties.Resources.resources
+D:\C#\安元\EquReportToWord(150308)\obj\Debug\EquReportToWord.csproj.GenerateResource.Cache
+D:\C#\安元\EquReportToWord(150308)\obj\Debug\EquReportToWord.FrmMian.resources

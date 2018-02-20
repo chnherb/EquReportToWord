@@ -1,0 +1,22 @@
+
+
+一、1.3用户是否参与是根据tblUsersResult中的UserState确定？还是根据我自己新建的表tblDoTask查询是否有记录而判断
+    如果是第一种情况，UserState可能取哪些值，还有，是否每个用户不管是否登录都有记录？
+    tblUsersReHistory
+
+    演练开始时间:
+    演练结束时间:
+
+二、
+	tblProcessManager
+	
+
+三、
+	3.1参与人员，答题及格人数、不及格人数，其中部门一 3人，部门二1人  读取哪张表		tblUsersResult（直接读取？？）
+	及格的判定：tblUsersResult
+	3.2
+
+学长，今天有两个问题忘了讲，一，演练开始时间和演练结束时间从哪里获取，二，关于用户答题
+
+
+ 
