@@ -2,8 +2,8 @@
 /* Word.cs-Word操作类
  * 
  * author:黄波
- * email: chnhuangbo@gmail.com
- * date:  2015-6-9
+ * email:chnhuangbo@gmail.com
+ * date:2015-6-9
 /************************************************************************/
 
 using System;
